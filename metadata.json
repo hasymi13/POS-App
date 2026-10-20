@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Inventaris Toko & Kasir (POS)",
+  "description": "Aplikasi terintegrasi Kasir (POS), Manajemen Stok Gudang Real-Time, Pembayaran QRIS & Tunai, Cetak Struk Otomatis, Laporan Laba Rugi, Ekspor PDF/Excel, Notifikasi Stok Rendah, dan Manajemen Akses Pengguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
